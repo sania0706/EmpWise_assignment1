@@ -18,13 +18,13 @@ Tech Stack
 
 ---
  Getting Started
-1. Clone the repository
+- Clone the repository
 
 ```bash
 git clone https://github.com/sania0706/EmpWise_assignment1.git
 cd EmpWise_assignment1
 
-2. Install dependencies
+- Install dependencies
 npm install
 npm install axios 
 npm start
